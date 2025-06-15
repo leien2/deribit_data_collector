@@ -1,0 +1,2 @@
+instrument_name,timestamp,index_price,mark_price,last_price,open_interest,best_bid_price,best_ask_price,bid_ask_spread
+BTC-PERPETUAL,1749985343542,105133.95,105148.95,105153.0,937956110,105152.5,105153.0,0.5
