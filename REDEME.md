@@ -4,6 +4,12 @@
 
 This project is a comprehensive cryptocurrency trading data collection, processing, and strategy backtesting system, focusing on high-quality data acquisition and effective strategy validation.
 
+1. Obtain data from deribit exchange through deribit_data_collector.py and save it locally
+
+2. Convert csv format data to SCID binary through sierra chart
+
+3. Call sierra chart interface through Backtest_moving_average.cpp, compile it into DLL file, and finally backtest the data
+
 ## Data Collection and Processing System Details
 
 ### 1. Data Collection Architecture
